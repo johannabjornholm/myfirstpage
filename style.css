@@ -3,7 +3,9 @@ background: #deffff; font: 12pt/1.4 "Helvetica Neue", "Helvetica", serif; max-wi
 h1 
 { color: #d71bff; font: 24pt/1.4 "Lucida Console"; } 
 a 
-{ color: #d71bff; } p { border-bottom: 1px solid #FF9999; padding-bottom: 5px; }
+{ color: #d71bff; font-weight: bold; background-color: #fdff4c;  } p { border-bottom: 1px solid #d71bff; padding-bottom: 5px; }
 ul
 { 
-background: #fdff4c; font: 12pt/1.4 "Trebuchet MS", serif; max-width: 200px; margin: 0 auto; }
+background: #fdff4c; font: 12pt/1.4 "Lucida Console", serif; max-width: 200px; margin: 0 auto; }
+h2
+{ color: #d71bff; font: 18pt/1.4 "Lucida Console"; font-weight: bold; text-transform: uppercase; text-decoration: underline; } 
